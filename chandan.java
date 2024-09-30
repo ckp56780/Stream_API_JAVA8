@@ -1,7 +1,8 @@
-//public class chandan {
-//    In Java Streams, operations are divided into two main categories: intermediate operations and terminal operations. Understanding the difference between these two is crucial for effectively using the Stream API.
+//intermediate operations and terminal
+//  In Java Streams, operations are divided into two main categories:
+//intermediate operations and terminal operations. Understanding the difference between these two is crucial for effectively using the Stream API.
 //
-//            Intermediate Operations
+//    Intermediate Operations:
 //    Intermediate operations are those that transform a stream into another stream. They are lazy, meaning they do not process the elements until a terminal operation is invoked. Intermediate operations are chained together to form a pipeline of operations.
 //    Some common intermediate operations include:
 //            •	filter(Predicate<? super T> predicate): Filters elements based on a condition.
